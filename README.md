@@ -19,3 +19,8 @@ Edicion de imagen con el uso de Photoshop, ademas de los elementos que existen e
 ### Guerrero Merchant Hector
 
 El uso del Gamification Model Canvas y sus caracteristicas, en que nos ayuda y como es util, ademas de desarrollar un prototipo de un juego
+
+## Proyecto App
+### Mejia Hernandez Sebastian
+
+Vemos el Proceso de desarrollo y preproduccion de una idea para una app que cubra las necesidades tanto de usuarios como de dueño de algun local o empresa al igual que de sus trabajadores
