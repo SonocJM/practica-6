@@ -14,3 +14,8 @@ Estamos aprendiendo sobre el sistema operativo y como interactua tanto con el ha
 ### Melo Ortiz Roberto
 
 Edicion de imagen con el uso de Photoshop, ademas de los elementos que existen en una imagen, ilustracion, dibujo, etc.
+
+## Diseño de Videojuegos
+### Guerrero Merchant Hector
+
+El uso del Gamification Model Canvas y sus caracteristicas, en que nos ayuda y como es util, ademas de desarrollar un prototipo de un juego
