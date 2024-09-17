@@ -1,0 +1,35 @@
+commit aa18a6172c977ff243c448a465953d196d116ec2 (HEAD -> main, origin/main, origin/HEAD)
+Author: Sonoc_JM <sonxzisulishimada@gmail.com>
+Date:   Wed Sep 11 18:36:26 2024 -0600
+
+    Creando rama y agregado contenido de Proyecto App
+
+commit 7040b8ec736c2f664d02baaf71bb488c527749ee
+Author: Sonoc_JM <sonxzisulishimada@gmail.com>
+Date:   Wed Sep 11 18:33:02 2024 -0600
+
+    Creando rama y agregado contenido de Diseño de Videojuegos
+
+commit d778af3fabad72d11820d076d5b2098aa575d2d2
+Author: Sonoc_JM <sonxzisulishimada@gmail.com>
+Date:   Wed Sep 11 18:26:09 2024 -0600
+
+    Creando rama y agregado contenido de Principios de Composicion y Diseño
+
+commit cd1357191a493aafbe6ab3a06f168b2d40587119
+Author: Sonoc_JM <sonxzisulishimada@gmail.com>
+Date:   Wed Sep 11 18:06:05 2024 -0600
+
+    Creando rama y agregado contenido de Sitemas Operativos
+
+commit d67810b080c23796ea18f578b2401e635d58ee4e
+Author: Sonoc_JM <sonxzisulishimada@gmail.com>
+Date:   Wed Sep 11 17:59:27 2024 -0600
+
+    Creando rama y agregado contenido de Programacion en Lenguajes Interpretados
+
+commit b3ed7e32dbaff474bed21733dbc9aaf447479ab2
+Author: Sonoc_JM <sonxzisulishimada@gmail.com>
+Date:   Wed Sep 11 17:43:01 2024 -0600
+
+    primer commit
