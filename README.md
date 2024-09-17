@@ -27,3 +27,4 @@ Vemos el Proceso de desarrollo y preproduccion de una idea para una app que cubr
 
 Practica 7:
 creando la versión 1.0.0 de este repositorio
+creando la versión 1.1.0 de este repositorio
