@@ -26,5 +26,5 @@ El uso del Gamification Model Canvas y sus caracteristicas, en que nos ayuda y c
 Vemos el Proceso de desarrollo y preproduccion de una idea para una app que cubra las necesidades tanto de usuarios como de dueño de algun local o empresa al igual que de sus trabajadores
 
 Practica 7:
-creando la versión 1.0.0 de este repositorio
-creando la versión 1.1.0 de este repositorio
+-Creando la versión 1.0.0 de este repositorio
+-Ccreando la versión 1.1.0 de este repositorio
